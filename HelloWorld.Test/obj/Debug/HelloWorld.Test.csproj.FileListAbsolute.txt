@@ -1,3 +1,4 @@
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\obj\Debug\HelloWorld.Test.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -31,6 +32,5 @@ C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\bin\Debug\Newtonsoft.
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\bin\Debug\Microsoft.Owin.xml
-C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\obj\Debug\HelloWorld.Test.csprojResolveAssemblyReference.cache
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\obj\Debug\HelloWorld.Test.dll
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Test\obj\Debug\HelloWorld.Test.pdb

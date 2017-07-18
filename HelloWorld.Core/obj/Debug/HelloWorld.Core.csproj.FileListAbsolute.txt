@@ -4,3 +4,8 @@ C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\HelloWorld.Core\bi
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\HelloWorld.Core\obj\Debug\HelloWorld.Core.exe
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\HelloWorld.Core\obj\Debug\HelloWorld.Core.pdb
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\HelloWorld.Core\obj\Debug\HelloWorld.Core.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Core\bin\Debug\HelloWorld.Core.exe.config
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Core\bin\Debug\HelloWorld.Core.exe
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Core\bin\Debug\HelloWorld.Core.pdb
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Core\obj\Debug\HelloWorld.Core.exe
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Core\obj\Debug\HelloWorld.Core.pdb

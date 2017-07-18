@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Web.Api", "Hello
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "..\HelloWorld\HelloWorld.csproj", "{0ABAA00D-357D-43D2-B315-A92F79C9865B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Core", "HelloWorld.Core\HelloWorld.Core.csproj", "{223D3598-5637-47C0-80BB-066A05A58D01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Core", "..\HelloWorld.Core\HelloWorld.Core.csproj", "{223D3598-5637-47C0-80BB-066A05A58D01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Api.Client", "HelloWorld.Api.Client\HelloWorld.Api.Client.csproj", "{F75D79AF-8588-4592-AEB7-CACD4F98F063}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Api.Client", "..\HelloWorld.Api.Client\HelloWorld.Api.Client.csproj", "{F75D79AF-8588-4592-AEB7-CACD4F98F063}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Test", "..\HelloWorld.Test\HelloWorld.Test.csproj", "{373E915A-4BD3-4966-82FC-E01F9E31C674}"
 EndProject

@@ -99,7 +99,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="HelloWorld.Core\HelloWorld.Core.csproj">
+    <ProjectReference Include="..\HelloWorld.Core\HelloWorld.Core.csproj">
       <Project>{223d3598-5637-47c0-80bb-066a05a58d01}</Project>
       <Name>HelloWorld.Core</Name>
     </ProjectReference>
