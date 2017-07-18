@@ -22,3 +22,12 @@ C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\obj\Debug\HelloWor
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\HelloWorld.Core.exe
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\HelloWorld.Core.pdb
 C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\HelloWorld.Core.exe.config
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml

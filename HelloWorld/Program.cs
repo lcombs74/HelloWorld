@@ -7,22 +7,17 @@ using System.Configuration;
 using HelloWorld.Core.Writers;
 using HelloWorld.Core;
 using HelloWorld.Core.Interfaces;
+using HelloWorld.Properties;
 
 namespace HelloWorld
 {
     class Program
     {
-        /// <summary>
-        /// app.config key for the message writer
-        /// output target
-        /// </summary>
-        private const string KEY_OUTPUT_TARGET = "OutputTarget";
-
         static void Main(string[] args)
         {
             try
-            {
-                IMessageWriter mw = MessageWriterFactory.CreateMessageWriter(ConfigurationManager.AppSettings[KEY_OUTPUT_TARGET]);
+            {                
+                IMessageWriter mw = MessageWriterFactory.CreateMessageWriter(Settings.Default.OutputTarget);
                 mw.WriteMessage("Hello World");
             }
             catch (Exception ex)
