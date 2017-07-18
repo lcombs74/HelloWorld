@@ -1,0 +1,8 @@
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.Core.exe
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.Core.pdb
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.Core.exe.config
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

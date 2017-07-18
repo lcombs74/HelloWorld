@@ -1,0 +1,5 @@
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\HelloWorld.Api.Client\bin\Debug\HelloWorld.Api.Client.exe.config
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\HelloWorld.Api.Client\bin\Debug\HelloWorld.Api.Client.exe
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\HelloWorld.Api.Client\bin\Debug\HelloWorld.Api.Client.pdb
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\HelloWorld.Api.Client\obj\Debug\HelloWorld.Api.Client.exe
+C:\Users\Owner\Documents\GitHub\HelloWorld\HelloWorld.Web.Api\HelloWorld.Api.Client\obj\Debug\HelloWorld.Api.Client.pdb
